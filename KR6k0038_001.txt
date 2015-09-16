@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:37.257188
+#+DATE: 2015-08-30 20:42:38.697694
 #+TITLE: 根本說一切有部略毘奈耶雜事攝頌
 #+PROPERTY: CBETA_ID T24n1457
 #+PROPERTY: ID KR6k0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1457
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0038_T_001-0520c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1457¶
-
- 根本說一切有部略毘奈耶雜事¶
+No. 1457¶
+根本說一切有部略毘奈耶雜事¶
 攝頌一卷¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -60,7 +59,7 @@ No.1457¶
 　照鏡并鑒水
 　不應用梳刷¶
 　頂上留長髮
-　浴室栗㚲毘¶
+　浴室栗[女*占]毘¶
 　生支當護面
 　不為歌舞樂¶
 　許作歌詠聲
@@ -161,7 +160,7 @@ No.1457¶
 #+BEGIN_VERSE
 「　三衣條葉量
 　床脚拂遊塵¶
-　行處著𣰽毺
+　行處著[毯-炎+瞿]毺
 　扞石須時畜¶
 　衣架及燈籠
 　勿使蟲傷損¶
@@ -176,7 +175,7 @@ No.1457¶
 　求法說二童
 　熱時聽造舍¶
 　石鹽安角內
-　藥器用𣰽毺¶
+　藥器用[毯-炎+瞿]毺¶
 　安替誦經時
 　以物承其足¶
 　拭面巾疎薄
@@ -259,7 +258,7 @@ No.1457¶
 　須知栽樹法
 　賊緂作神通¶
 　若得上帔衣
-　不應割去𦆠
+　不應割去[糸*匱]
 #+END_VERSE
 」¶
 
