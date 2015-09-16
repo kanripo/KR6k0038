@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部略毘奈耶雜事攝頌
+#+DATE: 2015-08-30 20:42:37.480368
+#+PROPERTY: JUAN 0
